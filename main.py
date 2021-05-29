@@ -1,8 +1,3 @@
-import numpy
-import imageio
-import decorator
-import tqdm
-import moviepy
 import moviepy.editor as mp
 from random import randint
 import time
